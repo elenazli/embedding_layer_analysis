@@ -15,7 +15,7 @@ set -e  # Exit on any error
 if [ $# -eq 0 ]; then
     echo "Error: No subject name provided"
     echo "Usage: $0 <SUBJECT_NAME>"
-    echo "Example: $0 BRCA1"
+    echo "Example: $0 BAA"
     exit 1
 fi
 

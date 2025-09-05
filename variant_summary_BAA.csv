@@ -1,0 +1,6 @@
+Variant,Codon,Amino_Acid,Min_Diff,Max_Diff,Range,Mean_Diff,Median_Diff,Std_Diff,Abs_Mean_Diff
+W_TGG,TGG,W,-0.15,0.08,0.23,-0.02,-0.01,0.05,0.06
+R_CGA,CGA,R,-0.12,0.06,0.18,-0.01,0.00,0.04,0.05
+L_CTA,CTA,L,-0.10,0.05,0.15,0.00,0.00,0.03,0.04
+A_GCA,GCA,A,-0.08,0.04,0.12,0.00,0.00,0.02,0.03
+G_GGA,GGA,G,-0.06,0.03,0.09,0.00,0.00,0.02,0.02

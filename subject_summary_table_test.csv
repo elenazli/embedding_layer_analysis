@@ -1,0 +1,4 @@
+aid,gene,position,start,end,contig,strand,flipped,src_codon,tgt_codon
+BRCA1,BRCA1,83,2000,3000,contig_1,+,FALSE,GCA,ATA
+TP53,TP53,175,1500,2500,contig_2,-,TRUE,ATG,GTG
+EGFR,EGFR,858,1000,2000,contig_3,+,FALSE,GAG,AAG
